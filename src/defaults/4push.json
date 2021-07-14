@@ -1,0 +1,14 @@
+{
+    "about": {
+        "node": {
+            "version": "0.0.0",
+            "beta": true,
+            "name": null
+        },
+        "originals-build-signatures": null,
+        "maintainer": {
+            "name": null,
+            "email": null
+        }
+    }
+}
